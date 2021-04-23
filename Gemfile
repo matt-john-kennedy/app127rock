@@ -28,8 +28,8 @@ gem 'jbuilder', '~> 2.7'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 
-gem 'bootstrap', '~> 5.0.0.beta2'
-gem 'sprockets-rails', :require => 'sprockets/railtie'
+gem 'bootstrap', '~> 4.5.2'
+# gem 'sprockets-rails', :require => 'sprockets/railtie'
 gem 'jquery-rails'
 gem 'simple_form'
 gem 'devise'
